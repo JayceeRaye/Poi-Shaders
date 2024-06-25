@@ -8,15 +8,13 @@
         "url":"https://hello.vrchat.com"
     },
     "description":"Example listing of VRChat packages",
-    "infoLink":{https://JayceeRaye.github.io/JayceeRaye-listing/index.json
+    "infoLink":{"https://JayceeRaye.github.io/JayceeRaye-listing/index.json"
         "url":"http://github.com/vrchat-community/template-package-listing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
         "vrchat-community/clientsim"
-    ],
-    "packages":[
-        {
+        
             "name":"com.vrchat.udonsharp",
             "releases":[
                 "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",

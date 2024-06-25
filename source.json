@@ -1,19 +1,18 @@
 {
-    "name":"Example Listing",
+    "name":"JayceeRaye",
     "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
+    "url":"https://JayceeRaye.github.io/JayceeRaye-listing/index.json",
     "author":{
         "email":"developer@vrchat.com",
         "name":"VRChat",
         "url":"https://hello.vrchat.com"
     },
     "description":"Example listing of VRChat packages",
-    "infoLink":{
+    "infoLink":{https://JayceeRaye.github.io/JayceeRaye-listing/index.json
         "url":"http://github.com/vrchat-community/template-package-listing",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
-    "githubRepos":[
         "vrchat-community/clientsim"
     ],
     "packages":[
